@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+05-homework/animals.csv
+05-homework/richpeople.xlsx
