@@ -122,3 +122,5 @@ dmypy.json
 07-homework (1)/cherry-blossoms/.DS_Store
 07-homework (1)/licensing/.DS_Store
 .DS_Store
+*.xls
+*.csv
